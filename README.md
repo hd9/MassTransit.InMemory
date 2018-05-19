@@ -7,4 +7,4 @@ To run:
 
 
 ## Thanks!
-And don't forget to visit blog.hildenco.com.
+And don't forget to visit [blog.hildenco.com](http:s//blog.hildenco.com).
